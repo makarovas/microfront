@@ -1,1 +1,1 @@
-console.log("from container index.js");
+import("./root");
